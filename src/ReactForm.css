@@ -1,0 +1,14 @@
+.react-form{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+
+    
+}
+form{
+    background-color: rgb(183, 54, 230);
+    border-radius: 15px;
+}
+label,input,button{
+    margin: 5px;
+}
